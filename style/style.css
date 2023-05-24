@@ -1,0 +1,10 @@
+.playfair {
+    font-family: 'Playfair Display', serif;
+}
+
+.hero {
+    background-color: #868f96;
+    color: white;
+    text-align: center;
+    padding: 50px;
+}
